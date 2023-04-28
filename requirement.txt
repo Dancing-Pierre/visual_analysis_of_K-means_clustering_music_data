@@ -1,0 +1,14 @@
+requests
+matplotlib
+json
+re
+os
+jieba
+wordcloud
+Pillow
+numpy
+collections
+sklearn
+pandas
+snownlp
+beautifulsoup4
